@@ -1,12 +1,13 @@
 # Covid19Monitor <br/>
 
-Fullstack student project <br/>
+Student project <br/>
 
 Projet URL: https://speedtech2020.com/corona/graph.html <br/>
 
-Build with JavaScript vanilla , jQuery, HTML CSS <br/>
+Built with JavaScript vanilla , jQuery, HTML CSS <br/>
 
-Program: Speed tech ort singalovsky <br/>
+program: Speed Tech Ort Singalovsky <br/>
+https://s.ort.org.il/ <br/>
 
 Lecturer: Ofer Shely <br/>
-www.monkeys.co.il <br/>
+http://monkeys.co.il/ <br/>
