@@ -1,0 +1,18 @@
+#parent {
+    min-height: 40vh;
+    max-height: 40vh;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.divSize {
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.divBack {
+    background-color: salmon;
+}
