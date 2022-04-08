@@ -2,7 +2,7 @@
 
 Student project <br/>
 
-Projet URL: https://speedtech2020.com/corona/graph.html <br/>
+Projet URL: https://brainy-flashy-lodge.glitch.me/graph.html <br/>
 
 Built with JavaScript vanilla , jQuery, HTML CSS <br/>
 
